@@ -1,4 +1,4 @@
-# windowseat
+# windex
 quick inventory script for ccdc 
 
 this will export everything onto the terminal, and onto a seperate txt file to read. csv isn't working saur...erm...sorry baout that....anyways 
